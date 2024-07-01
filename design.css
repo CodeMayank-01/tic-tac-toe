@@ -1,0 +1,27 @@
+*{
+    background-color:aqua;
+}
+button{
+    width: 100px;
+    height: 100px;
+    background-color:rgb(51, 239, 132);
+    font-size: 80px;
+    cursor: pointer;
+   
+} 
+table{
+    border-radius: 40px;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border:20px solid rgb(241, 109, 61);
+}
+h1{
+    text-align: center;
+    text-emphasis-color: rgb(240, 86, 56);
+}
+h3{
+    text-align: center;
+    text-shadow: aliceblue;
+    text-shadow: 10cap;
+}
